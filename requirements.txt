@@ -1,0 +1,10 @@
+aiohttp==3.8.1
+APScheduler==4.0.0a2
+Jinja2==3.0.3
+pycryptodome==3.14.1
+requests==2.26.0
+sanic==21.12.1
+uvloop==0.16.0
+qrcode
+tzlocal
+httpx
